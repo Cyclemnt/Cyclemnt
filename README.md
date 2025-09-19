@@ -10,6 +10,7 @@
 - **Programming**: C/C++ (advenced), Python, MATLAB, CUDA, LaTeX  
 - **Robotics & Embedded**: Arduino, Raspberry Pi, Webots  
 - **Tools**: Fusion 360, Git/GitHub, UNIX/Linux  
+Eager to learn new ones
 
 ---
 
